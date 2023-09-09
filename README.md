@@ -22,4 +22,8 @@
 - MySQL
 - PostgreSQL
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiroVEVO&show_icons=true&locale=en&layout=compact" alt="ShiroVEVO" />
+</p>
+
 [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiroVEVO)]()
