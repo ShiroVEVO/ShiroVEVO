@@ -1,4 +1,4 @@
-### Hi, I'm Adrian, But you can call me Shiro👋
+<h1> Hi, I'm Adrian, But you can call me Shiro👋</h1>
 
 ## About me
 👩‍💻 I'm currently studying at Distrital Francisco José de Caldas University at Bogotá, Colombia.
@@ -22,8 +22,11 @@
 - MySQL
 - PostgreSQL
 
-<p>
+<p aling="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiroVEVO&show_icons=true&locale=en&layout=compact" alt="ShiroVEVO" />
 </p>
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiroVEVO)]()
+<p aling="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiroVEVO" alt="ShiroVEVO" />
+</p>
+
