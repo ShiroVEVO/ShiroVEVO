@@ -3,6 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirovevo" alt="shirovevo" /></a> </p>
 
+- 🔭 I’m currently working as **Systems Engineer** at Gardenia, Specially working at process automation and Web Development
+
+- 👯 I’m studying **Systems Engineering** at Distrital Francisco José de Caldas University at **Bogotá, Colombia**.
+
+🧠 I’m currently learning about Cybersecurity, Cloud Computing, Infrastructure as a Service, Web Desing and Automation, Highly interested in design (I like everything to look pretty and fancy.)
+
 - 🐥 Languages **- Spanish (Native) - English (C1) - Japanese (N3)**
 
 - 💬 Ask me about **whatever you want**
