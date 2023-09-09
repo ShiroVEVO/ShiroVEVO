@@ -7,7 +7,7 @@
 
 - 👯 I’m studying **Systems Engineering** at Distrital Francisco José de Caldas University at **Bogotá, Colombia**.
 
-🧠 I’m currently learning about Cybersecurity, Cloud Computing, Infrastructure as a Service, Web Desing and Automation, Highly interested in design (I like everything to look pretty and fancy.)
+- 🧠 I’m currently learning about Cybersecurity, Cloud Computing, Infrastructure as a Service, Web Desing and Automation, Highly interested in design (I like everything to look pretty and fancy.)
 
 - 🐥 Languages **- Spanish (Native) - English (C1) - Japanese (N3)**
 
