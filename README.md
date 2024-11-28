@@ -9,8 +9,6 @@
 
 - 🧠 I’m currently learning about Cybersecurity, Cloud Computing, Infrastructure as a Service, Web Desing and Automation, Highly interested in design (I like everything to look pretty and fancy.)
 
-- 🐥 Languages **- Spanish (Native) - English (C1) - Japanese (N3)**
-
 - 💬 Ask me about **whatever you want**
 
 - 📫 How to reach me **adrianstratos@gmail.com**
